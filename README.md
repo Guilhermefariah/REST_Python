@@ -2,6 +2,8 @@
 
 Este é um projeto básico de aplicação web usando Flask.
 
+![Flask Logo](/src/static/images/perfil.jpg)
+
 ## Requisitos
 
 - Python 3.8+
@@ -13,8 +15,8 @@ Este é um projeto básico de aplicação web usando Flask.
 
 1. Clone o repositório:
     ```sh
-    git clone <URL_DO_REPOSITORIO>
-    cd <NOME_DO_REPOSITORIO>
+    git clone https://github.com/Guilhermefariah/REST_Python.git
+    cd REST_Python
     ```
 
 2. Crie um ambiente virtual e ative-o:
